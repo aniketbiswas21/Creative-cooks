@@ -1,0 +1,174 @@
+.nav-link:hover{
+    transform: scale(1.2);
+   background-color: #0063B2FF;
+}
+ 
+ 
+.gs2{
+font-size: 500%;   
+text-align: center;
+/* background-color: #0063B2FF;*/
+ background-color: rgb(4, 45, 78) ;
+color:#9CC3D5FF ;
+margin-bottom: -17px;
+letter-spacing: 5px;
+ 
+ 
+}
+ 
+.parallax {
+    /* The image used */
+    background-image: url("coffe2.jpg") ;
+ 
+    /* Set a specific height */
+    min-height: 550px; 
+    max-height: 600px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+ 
+ 
+ 
+.parallax2 {
+   /* The image used */
+   background-image: url("salad.jpg");
+   opacity: .8;
+ 
+   /* Set a specific height */
+   min-height: 500px; 
+ 
+   /* Create the parallax scrolling effect */
+   background-attachment: fixed;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+ }
+ 
+ 
+ .input{
+    margin-left: 250px;
+    position: relative;
+    margin-top: 10px;
+   margin-bottom: 10px;
+    /* text-align: center; */
+    /* margin-top: 100px; */
+    /* letter-spacing: 5px; */
+    /* background-color: #0063B2FF; */
+    text-emphasis:#9CC3D5FF;
+    display: -webkit-inline-flex;
+ }
+ .instruct{
+    background-color: rgb(4, 45, 78);
+    height: 50px;
+    width: 400px;
+    font-size: 200%;
+    color: #9CC3D5FF;
+    text-align: center;
+    margin-left: 450px;
+    /* padding-top: 200px; */
+    display: inline-table;
+    margin-top: 200px;
+    font-family: 'Odibee Sans' ;
+     letter-spacing: 3px;
+}
+ 
+.alert {
+        padding: 20px;
+        background-color: #f44336;
+        color: white;
+      }
+ 
+ .closebtn {
+        margin-left: 15px;
+        color: white;
+        font-weight: bold;
+        float: right;
+        font-size: 22px;
+        line-height: 20px;
+        cursor: pointer;
+        transition: 0.3s;
+      }
+.alert{
+    display: none;
+}
+.alert1{
+    display: block;
+    padding: 20px;
+     background-color: #00000086;
+     color: white;
+     text-align: center;
+     font-size: 200%;
+     margin-top: 20px;
+     padding-top: 25px;
+}
+
+.parallax2 {
+    /* The image used */
+    background-image: url("salad.jpg");
+    opacity: .8;
+  
+    /* Set a specific height */
+    min-height: 500px; 
+    max-height:600px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .input{
+    margin-left: 250px;
+    
+    margin-top: 30px;
+   margin-bottom: 10px;
+    background-color: rgb(4, 45, 78);
+    color: white;
+    text-emphasis:#9CC3D5FF;
+    display: -webkit-inline-flex;
+ 
+ }
+ #text{
+    margin-left: 250px;
+    
+    margin-top: 30px;
+   margin-bottom: 10px;
+    background-color: rgb(4, 45, 78);
+    color: white;
+    text-emphasis:#9CC3D5FF;
+    display: -webkit-inline-flex;
+    /* margin-left: auto;
+  margin-right: auto;
+  width: 66%; */
+ 
+ }
+ .footer{
+    background-color: rgb(4, 45, 78);
+    height: 50px;
+    text-align: center;
+    margin-top: 25%;
+    color:#9CC3D5FF;
+    font-size: 150%;
+ }
+ 
+#demo{
+    background-color: rgb(4, 45, 78) ;
+    width: 160px;
+    border-radius: 10px;
+    margin-top: 10px;
+        text-align: center;
+        font-size: 200%; 
+        display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /* width: 50%; */
+}
+#demo:hover{
+    width: 200px;
+    height: 2.0em;
+    font-size: 300%;
+}
