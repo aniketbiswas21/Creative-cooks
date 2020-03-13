@@ -15,3 +15,6 @@ The flow of the program is as follows:
 3.BOOTSTRAP
 
 4.JAVASCRIPT
+
+# Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
