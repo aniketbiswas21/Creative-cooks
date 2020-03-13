@@ -8,9 +8,9 @@ The flow of the program is as follows:
 2. The program recommends a dish according to the ingredients inputted.
 3. The program also generates a link to youtube of the recipe which the user can watch.
 ## Tools Used
-1.HTML
+1.HTML5
 
-2.CSS
+2.CSS3
 
 3.BOOTSTRAP
 
